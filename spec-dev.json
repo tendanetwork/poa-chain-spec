@@ -41,7 +41,9 @@
     "eip1344Transition": 3802500,
     "eip1706Transition": 3802500,
     "eip1884Transition": 3802500,
-    "eip2028Transition": 3802500
+    "eip2028Transition": 3802500,
+    "eip98Transition": 3927700,
+    "eip210Transition": 3927700
   },
   "genesis": {
     "seal": {
