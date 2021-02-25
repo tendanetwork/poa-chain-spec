@@ -19,11 +19,13 @@
             }
           }
         },
-       "blockRewardContractAddress": "0x7f9b7af21af40034f6ef6a6007706a2985ab1dd0",
-       "blockRewardContractTransition": 139915,
-       "blockRewardContractTransitions": {
-          "7510000": "0x146baab8621421e36bd688d91fb45a93dd04fc8a"
-       }
+        "blockRewardContractAddress": "0x7f9b7af21af40034f6ef6a6007706a2985ab1dd0",
+        "blockRewardContractTransition": 139915,
+        "blockRewardContractTransitions": {
+          "7511750":"0x511aec11f32ab9ea210770d50320abd1d5c39bff",
+          "7511845":"0x7f9b7af21af40034f6ef6a6007706a2985ab1dd0",
+          "7519800":"0x1f0a0cf117ab44a47c4f434494b6de05d13c5673"
+        }
       }
     }
   },
