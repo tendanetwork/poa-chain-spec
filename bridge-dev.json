@@ -1,0 +1,11 @@
+//ERC-TO-NATIVE
+{
+    "homeBridge": {
+        "address": "0x82802b7C0cf84bB84FB8a17579a3Bb4459263E52",
+        "deployedBlockNumber": 7149960
+    },
+    "foreignBridge": {
+        "address": "0xC28B0a7Bd4A357F6Ccc970955d630ca34B7E2f80",
+        "deployedBlockNumber": 19197558
+    }
+}
